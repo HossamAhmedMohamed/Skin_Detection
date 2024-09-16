@@ -1,0 +1,8 @@
+athlete-foot
+cellulitis
+chickenpox
+cutaneous-larva-migrans
+impetigo
+nail-fungus
+ringworm
+shingles
